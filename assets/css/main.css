@@ -2667,3 +2667,7 @@ section {
 .footer .credits a {
   color: #fff;
 }
+
+.three_stat p {
+  color:rgba(0, 0, 0, 0.7)
+}
